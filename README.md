@@ -11,3 +11,9 @@ The idea behind this is quite easy, use microcontroller's DAC and one single dig
 as you can see at the [configuration file](sindac.ioc).
 
 The program flowchart ([english version](flowchart_eng.png) or [spanish version](flowchart.png)) shows how the program works
+
+On this board working at 36MHz the APB1 (max clock speed for the DAC bus) and this program, the output can go from 835Hz up to 11.29KHz with nice waveforms.
+
+Here are some photos taked from a Tektronic osciloscope:
+![outputs around 4KHz](4K.png)
+![outputs around 10KHz](10k.png)
