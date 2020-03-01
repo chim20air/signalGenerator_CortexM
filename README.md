@@ -10,4 +10,4 @@ The idea behind this is quite easy, use microcontroller's DAC and one single dig
  - squared wave, PA6 pin
 as you can see at the [configuration file](sindac.ioc).
 
-The program flowchart ([english version](flowchart_eng.png) or [spanish version](flowchart.png)) shows how the program works with the exception of how the waves are calculated.
+The program flowchart ([english version](flowchart_eng.png) or [spanish version](flowchart.png)) shows how the program works
